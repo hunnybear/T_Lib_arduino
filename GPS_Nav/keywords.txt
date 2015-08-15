@@ -1,0 +1,12 @@
+# KEYWORD1 Classes, datatypes, and C++ keywords
+# KEYWORD2 Methods and functions
+# KEYWORD3 setup and loop functions, as well as the Serial keywords
+# LITERAL1 Constants
+# LITERAL2 Built-in variables (unused by default)
+# See more at: http://acsweb.ucsd.edu/~sbliven/2012/01/arduino-ide-keywords/#sthash.QYKiVjYK.dpuf
+
+Vector_2				KEYWORD1	classes
+Vector_3				KEYWORD1	classes
+Point_2					KEYWORD1	classes
+
+getVectorBetweenPoints	KEYWORD2	methods
